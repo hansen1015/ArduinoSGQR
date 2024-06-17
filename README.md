@@ -1,1 +1,1 @@
-#Arduino SGQR/PayNow QR generator
+# Arduino SGQR/PayNow QR generator
